@@ -3,7 +3,8 @@
 /**
  * binary_tree_inorder - funcion que visita en orden asendente
  * @tree: es un puntero al nodo raiz del arbol a recorrer
- * @func: es un puntero a una funciÃ³n que se ejecutarÃ¡ en cada nodo del Ãol
+ * @func: es un puntero a una funciÃ³n que se ejecutar�
+ * �¡ en cada nodo del Ã
  */
 void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
 {
